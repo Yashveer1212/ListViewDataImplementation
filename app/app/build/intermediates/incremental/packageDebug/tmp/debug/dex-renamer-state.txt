@@ -1,0 +1,10 @@
+#Tue Apr 04 23:18:30 PDT 2023
+base.2=/Users/yashveer1212/AndroidStudioProjects/ListViewDataImplementation/app/build/intermediates/dex/debug/mergeProjectDexDebug/2/classes.dex
+path.2=2/classes.dex
+base.1=/Users/yashveer1212/AndroidStudioProjects/ListViewDataImplementation/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+path.1=0/classes.dex
+base.0=/Users/yashveer1212/AndroidStudioProjects/ListViewDataImplementation/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
